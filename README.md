@@ -1,4 +1,5 @@
-A simple file to help you track your betting history, providing performance data based on various filters and a summary dashboard. 
+A tool that simulates an NBA player's stat line (points, rebounds, and assists) against specific opponents, and a sports betting tracker that helps you manage and visualize your betting statistics.
 
 sample dashboard/bet log: https://imgur.com/a/XJNOkKn
+
 
