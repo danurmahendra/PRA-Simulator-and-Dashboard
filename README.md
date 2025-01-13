@@ -1,4 +1,4 @@
-A tool that simulates an NBA player's stat line (points, rebounds, and assists) against specific opponents, and a sports betting tracker that helps you manage and visualize your betting history.
+A tool that simulates an NBA player's stat line (points, rebounds, and assists) against specific opponents, and a sports betting tracker that helps you manage and visualize your betting history. I use this model to get a general overview on how I would expect a player's performance before further analyzing based on position matchups, recent trends, injuries/rests, and game script.
 
 model projections: https://imgur.com/a/8P7aRDi
 
